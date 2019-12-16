@@ -1,4 +1,2 @@
-greeting = "Hello World"
-end
-
-greeting
+Class Greeting
+Greeting = "Hello World"
