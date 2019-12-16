@@ -1,5 +1,4 @@
-def greeting
-  returns "Hello World"
+greeting = "Hello World"
 end
 
 greeting
