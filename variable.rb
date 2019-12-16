@@ -1,1 +1,5 @@
-Def greeting
+def greeting
+  greeting = 'Hello World'
+end
+
+greeting
