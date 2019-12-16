@@ -1,2 +1,6 @@
-Class Greeting
-Greeting = "Hello World"
+Class greeting
+greeting = "Hello World"
+end
+end
+
+Greeting
